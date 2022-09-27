@@ -1,2 +1,2 @@
 # hello-world
-test repo for cmpinf0010 😎
+This is a test repo for CMPINF 0010
